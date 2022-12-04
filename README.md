@@ -1,5 +1,7 @@
 # BreakingBad App Notes Screen & LeetCode Çözümleri
 XCode 14.0.1
+Controllers : NotesViewController - AddNoteViewController
+Manager | Service : CoreDataManager
 
 ## :star2: Proje Hakkında
 <div align="center"> 
