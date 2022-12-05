@@ -13,7 +13,7 @@ Bölümler hakkında not oluşturabilme &#x2611;
 Oluşturulan notların listelenmesi &#x2611;
 </li>
 <li>
-Notların güncellenmesi ve AlertView &#x2611;
+Notların güncellenmesi,Silinmesi ve AlertView &#x2611;
 </li>
 </ul>
 
